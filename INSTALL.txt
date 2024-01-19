@@ -1,0 +1,12 @@
+To run this game, please cd into the 3110-project directory after downloading
+this game. 
+
+Run the following once in 3110-project directory to run game:
+$ opam update
+$ opam upgrade
+$ opam install ANSITerminal
+$ dune build 
+$ make play
+
+
+

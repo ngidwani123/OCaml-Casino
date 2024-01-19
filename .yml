@@ -1,0 +1,34 @@
+---
+# Members of our group.
+group:
+  - name: Rhea Verma
+    netid: rv245
+  - name: Louis Valencia
+    netid: lcv28
+  - name: Suhani Patel
+    netid: sjp269
+  - name: Neil Gidwani
+    netid: nsg67
+# Our PM.
+pm:
+  name: Kaitlyn Chen
+  netid: kjc256
+# Private gallery entry
+publish: false
+# Pithy title
+title: "Blackjack"
+# Cornell GitHub link to repo
+git-repo: "https://github.coecis.cornell.edu/sjp269/3110-project"
+# No Demo screencast 
+demo-video-url: ""
+# Description of project
+desc: >
+  Our project is the card game Blackjack. The interface begins by allowing 
+  users to choose a starting stack size and place their bets for the round. The 
+  interfact then deals two cards to both the user and dealer, giving the user
+  the options present in casiono-rule game of Blackjack. This includes the 
+  abilities to hit, check, double, split, and/or surrender, and 3-2 payouts for 
+  a blackjack. 
+  
+  I/O is supported along with a GUI that mimics the casino 
+  experience using casino chips as money.
